@@ -1,0 +1,15 @@
+.portfolio__text{
+    padding: 1.875em 2.5em 2.5em 2.5em;
+
+    a{
+        color: $primaryColor;
+
+        &:hover{
+            text-decoration: none;
+        }
+
+        &:focus{
+            text-decoration: none;
+        }
+    }
+}

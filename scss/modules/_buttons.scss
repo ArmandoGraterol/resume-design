@@ -1,0 +1,11 @@
+.social__button{
+    background: $primaryColor;
+    border-radius: 50%;
+    border: none;
+    padding: 0.625em;
+    margin: 1.25em 0 0.625em 0;
+
+    &:focus{
+        border: none;
+    }
+}

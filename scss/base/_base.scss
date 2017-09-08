@@ -1,0 +1,21 @@
+html, body {
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+    overflow-x: hidden;
+    font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+h3 {
+    color: $secondaryColor;
+    font-size: 20px;
+}
+
+hr{
+    border: 1px solid #BCBCBC;
+    width: 80%;
+    margin: 1.875em 4.375em 1.875em 0;
+}

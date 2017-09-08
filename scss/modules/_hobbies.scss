@@ -1,0 +1,12 @@
+.hobbies{
+    text-align: center;
+
+    &__icon{
+        font-size: 1.875em;
+        color: white;
+        background: $primaryColor;
+        padding: 0.625em;
+        border-radius: 50%;
+        margin-bottom: 0.625em;
+    }
+}

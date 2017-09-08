@@ -1,0 +1,29 @@
+/* ASSETS */
+
+@import "assets/bootstrap/_bootstrap.scss";
+
+/* BASE */
+
+@import "base/_variables.scss";
+@import "base/_mixins.scss";
+@import "base/_base.scss";
+
+/* MODULES */
+
+@import "modules/_buttons.scss";
+@import "modules/_navbar_tabs.scss";
+@import "modules/_text-important.scss";
+@import "modules/_progressbars.scss";
+@import "modules/_hobbies.scss";
+@import "modules/_qualifications_experience.scss";
+@import "modules/_portfolio_images.scss";
+@import "modules/_portfolio_text.scss";
+@import "modules/_navbarToggle.scss";
+@import "modules/_navItems.scss";
+
+/* LAYOUTS */
+
+@import "layouts/_navbar.scss";
+@import "layouts/_header.scss";
+@import "layouts/_content.scss";
+@import "layouts/_footer.scss";

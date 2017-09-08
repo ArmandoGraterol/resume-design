@@ -1,0 +1,23 @@
+header{
+    background: $secondaryColor;
+    color: white;
+    padding: 1.875em 0.3125em 1.875em 3.125em;
+    box-shadow: 0 5px 5px 2px rgba(0, 0, 0, 0.2);
+    position: relative;
+    z-index: 1;
+}
+
+.header__photo{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 15.625em;
+}
+
+.header__title{
+
+    h1{
+        font-size: 1.875em;
+    }
+
+}
